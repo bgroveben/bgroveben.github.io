@@ -44,7 +44,7 @@
     "minimist": ">=1.2.3",
     "object-path": ">=0.11.5",
     "popper.js": "^1.12.9",
-    "set-value": ">=2.0.1",
+    "set-value": ">=4.0.1",
     "socket.io": ">=2.4.0",
     "yargs-parser": ">=5.0.0-security.0"
   },
@@ -67,7 +67,7 @@
     "merge-stream": "2.0.0",
     "minimist": ">=1.2.3",
     "object-path": ">=0.11.5",
-    "set-value": ">=2.0.1",
+    "set-value": ">=4.0.1",
     "socket.io": ">=2.4.0",
     "yargs-parser": ">=5.0.0-security.0"
   }
